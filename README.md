@@ -117,11 +117,3 @@ B.Tech – Electronics and Communication Engineering
 Pragati Engineering College
 2022–2026
 
-
-### Then
-
-**1.** Click **Commit changes**  
-**2.** Commit message:
-
-```text
-Update README
