@@ -109,10 +109,9 @@ Greenhouse monitoring
 Automated irrigation
 Home gardening
 Water conservation
-Author
 
+**Author**
 Balabharathi Lokarapu
-
 B.Tech – Electronics and Communication Engineering
 Pragati Engineering College
 2022–2026
